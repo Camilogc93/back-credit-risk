@@ -1,0 +1,4 @@
+outs:
+- md5: 25680adce38799170f251021cde79b82
+  size: 39032531
+  path: model_risk.joblib
